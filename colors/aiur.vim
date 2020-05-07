@@ -26,8 +26,8 @@ hi Directory      ctermfg=White ctermbg=NONE
 " Diff
 hi DiffAdded      ctermfg=Green ctermbg=NONE
 hi DiffRemoved    ctermfg=DarkRed ctermbg=NONE
-hi DiffAdd        ctermfg=NONE ctermbg=Green
-hi DiffChange     ctermfg=NONE ctermbg=NONE
+hi DiffAdd        ctermfg=Black ctermbg=Green
+hi DiffChange     ctermfg=Black ctermbg=Yellow
 hi DiffDelete     ctermfg=White ctermbg=DarkRed
 hi DiffText       ctermfg=Black ctermbg=Yellow
 
